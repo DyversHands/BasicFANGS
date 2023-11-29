@@ -1,5 +1,5 @@
 # BasicFANGS
-Old school 'skill-based' TTRPG system using d20, with an open license
+Old school 'skill-based' TTRPG system using d20, with an [open license](LICENSE-CC-BY-SA-4.0.md)
 
 ## Table of Contents
 * [Introduction](./introduction.md)
